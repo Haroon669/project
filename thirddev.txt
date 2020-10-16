@@ -3,3 +3,5 @@ this is thrid dev file for commit
 new commit generates
 
 new log
+
+and
