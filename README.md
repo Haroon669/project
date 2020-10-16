@@ -9,7 +9,7 @@ again training
 
 *this is again new*
 
-[Hello](www.google.com)
+[Hello](https://www.google.com)
 
 1. Ahmad
 2. Ibrahim
@@ -29,3 +29,15 @@ this is ```training session ``` for GitHub
 
 > This is separate quote
 
+1. This is nested
+   - one
+   - two
+     - again nest
+     - three
+     
+     
+     
+     
+- [x] This is complete
+- [ ] This is not complete
+- [ ] This remains for recheck
