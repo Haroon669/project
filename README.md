@@ -21,8 +21,11 @@ again training
 
 `This is quote`
 
-```this is training session for GIHub```
+this is ```training session ``` for GitHub
 
 
 ~~THis is mistaken written~~
+
+
+> This is separate quote
 
