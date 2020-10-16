@@ -41,3 +41,6 @@ this is ```training session ``` for GitHub
 - [x] This is complete
 - [ ] This is not complete
 - [ ] This remains for recheck
+
+
+ :+1: This is for good :blush: 
